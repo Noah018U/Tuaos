@@ -1,0 +1,412 @@
+{
+  "os_name": "Tuaos",
+  "os_revision": "1.33.92X",
+  "creator": "Noah018",
+  "files": [
+    {
+      "name": "boot.asm",
+      "type": "asm",
+      "location": "/"
+    },
+    {
+      "name": "main.asm",
+      "type": "asm",
+      "location": "/"
+    },
+    {
+      "name": "reg.asm",
+      "type": "asm",
+      "location": "/"
+    },
+    {
+      "name": "settings.toml",
+      "type": "toml",
+      "location": "/"
+    },
+    {
+      "name": "system.json",
+      "type": "json",
+      "location": "/"
+    },
+    {
+      "name": "system.ts",
+      "type": "ts",
+      "location": "/"
+    },
+    {
+      "name": "bios.json",
+      "type": "json",
+      "location": "/"
+    },
+    {
+      "name": "config.json",
+      "type": "json",
+      "location": "/"
+    },
+    {
+      "name": "net.json",
+      "type": "json",
+      "location": "/"
+    },
+    {
+      "name": "filesystem/0.asm",
+      "type": "asm",
+      "location": "/"
+    },
+    {
+      "name": "filesystem/0.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "filesystem/1.asm",
+      "type": "asm",
+      "location": "/"
+    },
+    {
+      "name": "filesystem/1.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "filesystem/2.asm",
+      "type": "asm",
+      "location": "/"
+    },
+    {
+      "name": "filesystem/2.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "filesystem/3.asm",
+      "type": "asm",
+      "location": "/"
+    },
+    {
+      "name": "filesystem/3.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "aichat/file1.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "aichat/file2.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "aichat/file3.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "aichat/file4.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "aichat/file5.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "aichat/file6.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "aichat/file7.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "aichat/file8.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "aichat/file9.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "aichat/file10.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "aichat/file11.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "aichat/file12.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "aichat/file13.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "aichat/file14.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "aichat/file15.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "bin/file1.hex",
+      "type": "hex",
+      "location": "/"
+    },
+    {
+      "name": "bin/file2.hex",
+      "type": "hex",
+      "location": "/"
+    },
+    {
+      "name": "bin/file3.hex",
+      "type": "hex",
+      "location": "/"
+    },
+    {
+      "name": "bin/file4.hex",
+      "type": "hex",
+      "location": "/"
+    },
+    {
+      "name": "bin/file5.hex",
+      "type": "hex",
+      "location": "/"
+    },
+    {
+      "name": "bin/file6.hex",
+      "type": "hex",
+      "location": "/"
+    },
+    {
+      "name": "bin/file7.hex",
+      "type": "hex",
+      "location": "/"
+    },
+    {
+      "name": "bin/file8.hex",
+      "type": "hex",
+      "location": "/"
+    },
+    {
+      "name": "bin/file9.hex",
+      "type": "hex",
+      "location": "/"
+    },
+    {
+      "name": "bin/file10.hex",
+      "type": "hex",
+      "location": "/"
+    },
+    {
+      "name": "calculator/file1.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "calculator/file2.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "calculator/file3.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "calculator/file4.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "calculator/file5.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "calculator/file6.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "calculator/file7.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "calculator/file8.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "localhost/index.html",
+      "type": "html",
+      "location": "/"
+    },
+    {
+      "name": "localhost/games.html",
+      "type": "html",
+      "location": "/"
+    },
+    {
+      "name": "localhost/utilities.html",
+      "type": "html",
+      "location": "/"
+    },
+    {
+      "name": "localhost/time.html",
+      "type": "html",
+      "location": "/"
+    },
+    {
+      "name": "sys/file1.c",
+      "type": "c",
+      "location": "/"
+    },
+    {
+      "name": "sys/file2.cpp",
+      "type": "cpp",
+      "location": "/"
+    },
+    {
+      "name": "sys/file3.cs",
+      "type": "cs",
+      "location": "/"
+    },
+    {
+      "name": "icons/icon1.svg",
+      "type": "svg",
+      "location": "/"
+    },
+    {
+      "name": "icons/icon2.svg",
+      "type": "svg",
+      "location": "/"
+    },
+    {
+      "name": "icons/icon3.svg",
+      "type": "svg",
+      "location": "/"
+    },
+    {
+      "name": "icons/icon4.svg",
+      "type": "svg",
+      "location": "/"
+    },
+    {
+      "name": "icons/icon5.svg",
+      "type": "svg",
+      "location": "/"
+    },
+    {
+      "name": "icons/icon6.svg",
+      "type": "svg",
+      "location": "/"
+    },
+    {
+      "name": "icons/icon7.svg",
+      "type": "svg",
+      "location": "/"
+    },
+    {
+      "name": "icons/icon8.svg",
+      "type": "svg",
+      "location": "/"
+    },
+    {
+      "name": "icons/icon9.svg",
+      "type": "svg",
+      "location": "/"
+    },
+    {
+      "name": "icons/icon10.svg",
+      "type": "svg",
+      "location": "/"
+    },
+    {
+      "name": "shell.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "taskbar.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "desktop.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "encryption.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "decryption.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "compiler/c_compiler.c",
+      "type": "c",
+      "location": "/"
+    },
+    {
+      "name": "compiler/cpp_compiler.cpp",
+      "type": "cpp",
+      "location": "/"
+    },
+    {
+      "name": "compiler/cs_compiler.cs",
+      "type": "cs",
+      "location": "/"
+    },
+    {
+      "name": "console.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "javascript_console.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "CRLFFinder.asm",
+      "type": "asm",
+      "location": "/"
+    },
+    {
+      "name": "copyright",
+      "type": "txt",
+      "location": "/"
+    },
+    {
+      "name": "readme",
+      "type": "txt",
+      "location": "/"
+    },
+    {
+      "name": "setup.txt",
+      "type": "txt",
+      "location": "/"
+    }
+  ]
+}

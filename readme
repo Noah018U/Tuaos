@@ -1,0 +1,151 @@
+# Tuaos Operating System
+
+Tuaos is an operating system created by Noah018. It includes an executable system, notepad, a web browser, a system interface, a BIOS, a command terminal, a settings menu, a bootloader, CD support, DVD support, and floppy support. It also has a list of other programs, a config.json file, bios.json file, and a net.json file. The OS has support for network and virtualization, as well as a video player, music player, and image viewer. 
+
+## File Structure
+
+The file structure of Tuaos is as follows:
+
+- boot.asm
+- main.asm
+- reg.asm
+- settings.toml
+- system.json
+- system.ts
+- bios.json
+- config.json
+- net.json
+- filesystem/
+  - 0.asm
+  - 0.js
+  - 1.asm
+  - 1.js
+  - 2.asm
+  - 2.js
+  - 3.asm
+  - 3.js
+- aichat/
+  - file1.js
+  - file2.js
+  - file3.js
+  - file4.js
+  - file5.js
+  - file6.js
+  - file7.js
+  - file8.js
+  - file9.js
+  - file10.js
+  - file11.js
+  - file12.js
+  - file13.js
+  - file14.js
+  - file15.js
+- bin/
+  - file1.hex
+  - file2.hex
+  - file3.hex
+  - file4.hex
+  - file5.hex
+  - file6.hex
+  - file7.hex
+  - file8.hex
+  - file9.hex
+  - file10.hex
+- calculator/
+  - file1.js
+  - file2.js
+  - file3.js
+  - file4.js
+  - file5.js
+  - file6.js
+  - file7.js
+  - file8.js
+- localhost/
+  - index.html
+  - games.html
+  - utilities.html
+  - time.html
+- sys/
+  - file1.c
+  - file2.cpp
+  - file3.cs
+- icons/
+  - icon1.svg
+  - icon2.svg
+  - icon3.svg
+  - icon4.svg
+  - icon5.svg
+  - icon6.svg
+  - icon7.svg
+  - icon8.svg
+  - icon9.svg
+  - icon10.svg
+- shell.js
+- taskbar.js
+- desktop.js
+- encryption.js
+- decryption.js
+- compiler/
+  - c_compiler.c
+  - cpp_compiler.cpp
+  - cs_compiler.cs
+- console.js
+- javascript_console.js
+- CRLFFinder.asm
+- copyright
+- readme
+- setup.txt
+
+## Features
+
+Tuaos has a wide range of features, including:
+
+- Executable system
+- Notepad
+- Web browser
+- System interface
+- BIOS
+- Command terminal
+- Settings menu
+- Bootloader
+- CD support
+- DVD support
+- Floppy support
+- List of other programs
+- Config.json file
+- Bios.json file
+- Net.json file
+- Network support
+- Virtualization support
+- Video player
+- Music player
+- Image viewer
+- AI chatbot
+- Calculator
+- Localhost website with games, utilities, and time display
+- Example files of all file types
+- Support for multiple users and login system
+- Encryption and decryption support
+- Compiler for C, C++, and C# files
+- Basic Linux commands in console
+- JavaScript console
+- Touchscreen support
+- 16-bit, 32-bit, and 64-bit executable support
+- Compression and decompression functions for tar.gz and zip files
+- GUI and UI that can be switched between in the BIOS
+- Mobile hotspot support for the network
+- CRLF and LF support in the file system driver
+- Support for mouse and keyboard, including a dictionary of words for typing correction
+- Support for all drivers, including BIOS, file system, bootloader, console terminal system, IO ports, USB ports, storage, RAM, CPU, and display
+
+## Revision
+
+Tuaos is currently in revision 1.33.92X.
+
+## Installation
+
+To install Tuaos on your hardware, follow the instructions in the setup.txt file.
+
+## License
+
+Tuaos is licensed under the MIT License. See the copyright file for more information.

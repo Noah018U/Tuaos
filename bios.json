@@ -1,0 +1,94 @@
+{
+  "name": "Tuaos BIOS",
+  "version": "1.33.92X",
+  "creator": "Noah018",
+  "bootloader": "boot.asm",
+  "kernel": "main.asm",
+  "filesystem": {
+    "0.asm": "filesystem/0.asm",
+    "0.js": "filesystem/0.js",
+    "1.asm": "filesystem/1.asm",
+    "1.js": "filesystem/1.js",
+    "2.asm": "filesystem/2.asm",
+    "2.js": "filesystem/2.js",
+    "3.asm": "filesystem/3.asm",
+    "3.js": "filesystem/3.js",
+    "aichat": "aichat",
+    "bin": "bin",
+    "calculator": "calculator",
+    "localhost": "localhost",
+    "sys": "sys",
+    "icons": "icons"
+  },
+  "drivers": {
+    "bios": "bios.asm",
+    "filesystem": "filesystem.asm",
+    "bootloader": "bootloader.asm",
+    "console terminal system": "console.asm",
+    "io ports": "io.asm",
+    "usb ports": "usb.asm",
+    "storage": "storage.asm",
+    "ram": "ram.asm",
+    "cpu": "cpu.asm",
+    "display": "display.asm",
+    "mouse": "mouse.asm",
+    "keyboard": "keyboard.asm"
+  },
+  "executable_support": {
+    "16bit": true,
+    "32bit": true,
+    "64bit": true
+  },
+  "compression_support": {
+    "tar.gz": true,
+    "zip": true
+  },
+  "gui": {
+    "default": "uis.dll",
+    "uis.dll": {
+      "gui": "gui.css",
+      "ui": "ui.css"
+    }
+  },
+  "users": {
+    "Default": {
+      "Desktop": {
+        "icons": {
+          "icon1": "icons/icon1.svg",
+          "icon2": "icons/icon2.svg",
+          "icon3": "icons/icon3.svg",
+          "icon4": "icons/icon4.svg",
+          "icon5": "icons/icon5.svg",
+          "icon6": "icons/icon6.svg",
+          "icon7": "icons/icon7.svg",
+          "icon8": "icons/icon8.svg",
+          "icon9": "icons/icon9.svg",
+          "icon10": "icons/icon10.svg"
+        }
+      },
+      "Documents": {},
+      "Downloads": {},
+      "Music": {},
+      "Pictures": {},
+      "Videos": {}
+    }
+  },
+  "encryption": {
+    "algorithm": "AES",
+    "key_length": 256
+  },
+  "login_system": {
+    "encryption": true,
+    "users": true
+  },
+  "compiler": {
+    "c": "compiler/c_compiler.c",
+    "cpp": "compiler/cpp_compiler.cpp",
+    "cs": "compiler/cs_compiler.cs"
+  },
+  "commands": {
+    "basic_linux": true,
+    "javascript_console": true
+  },
+  "file_list": "fs.txt"
+}

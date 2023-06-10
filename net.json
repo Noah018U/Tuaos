@@ -1,0 +1,52 @@
+{
+  "network": {
+    "drivers": {
+      "ethernet": {
+        "name": "Ethernet Driver",
+        "version": "1.0",
+        "author": "Noah018",
+        "description": "Driver for Ethernet network interface cards",
+        "file": "ethernet_driver.sys"
+      },
+      "wifi": {
+        "name": "WiFi Driver",
+        "version": "1.0",
+        "author": "Noah018",
+        "description": "Driver for WiFi network interface cards",
+        "file": "wifi_driver.sys"
+      }
+    },
+    "protocols": {
+      "tcp": {
+        "name": "TCP Protocol",
+        "version": "1.0",
+        "author": "Noah018",
+        "description": "Transmission Control Protocol",
+        "file": "tcp_protocol.sys"
+      },
+      "udp": {
+        "name": "UDP Protocol",
+        "version": "1.0",
+        "author": "Noah018",
+        "description": "User Datagram Protocol",
+        "file": "udp_protocol.sys"
+      }
+    },
+    "services": {
+      "http": {
+        "name": "HTTP Service",
+        "version": "1.0",
+        "author": "Noah018",
+        "description": "Hypertext Transfer Protocol",
+        "file": "http_service.sys"
+      },
+      "ftp": {
+        "name": "FTP Service",
+        "version": "1.0",
+        "author": "Noah018",
+        "description": "File Transfer Protocol",
+        "file": "ftp_service.sys"
+      }
+    }
+  }
+}

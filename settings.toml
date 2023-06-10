@@ -1,0 +1,58 @@
+# Tuaos Settings
+
+[system]
+name = "Tuaos"
+version = "1.33.92X"
+creator = "Noah018"
+
+[filesystem]
+support_cd = true
+support_dvd = true
+support_floppy = true
+16bit_executable = true
+32bit_executable = true
+64bit_executable = true
+tar_gz_compression = true
+zip_compression = true
+crlf_support = true
+lf_support = true
+
+[network]
+support_virtualization = true
+support_mobile_hotspot = true
+
+[encryption]
+support_login = true
+support_other = true
+
+[ui]
+default = "gui"
+gui = "uis.dll"
+ui = "uis.dll"
+
+[users]
+default = "Default"
+login_system = true
+multi_user_support = true
+
+[compiler]
+c = "/compile/c_compiler.c"
+cpp = "/compile/cpp_compiler.cpp"
+cs = "/compile/cs_compiler.cs"
+
+[console]
+basic_commands = true
+javascript_console = true
+typing_correction = true
+
+[icons]
+icon1 = "/icons/icon1.svg"
+icon2 = "/icons/icon2.svg"
+icon3 = "/icons/icon3.svg"
+icon4 = "/icons/icon4.svg"
+icon5 = "/icons/icon5.svg"
+icon6 = "/icons/icon6.svg"
+icon7 = "/icons/icon7.svg"
+icon8 = "/icons/icon8.svg"
+icon9 = "/icons/icon9.svg"
+icon10 = "/icons/icon10.svg"

@@ -1,0 +1,453 @@
+{
+  "name": "Tuaos",
+  "creator": "Noah018",
+  "revision": "1.33.92X",
+  "files": [
+    {
+      "name": "boot.asm",
+      "type": "asm",
+      "location": "/"
+    },
+    {
+      "name": "main.asm",
+      "type": "asm",
+      "location": "/"
+    },
+    {
+      "name": "reg.asm",
+      "type": "asm",
+      "location": "/"
+    },
+    {
+      "name": "settings.toml",
+      "type": "toml",
+      "location": "/"
+    },
+    {
+      "name": "system.json",
+      "type": "json",
+      "location": "/"
+    },
+    {
+      "name": "system.ts",
+      "type": "ts",
+      "location": "/" },
+    {
+      "name": "2.asm",
+      "type": "asm",
+      "location": "/filesystem"
+    },
+    {
+      "name": "2.js",
+      "type": "js",
+      "location": "/filesystem"
+    },
+    {
+      "name": "3.asm",
+      "type": "asm",
+      "location": "/filesystem"
+    },
+    {
+      "name": "3.js",
+      "type": "js",
+      "location": "/filesystem"
+    },
+    {
+      "name": "aichat",
+      "type": "dir",
+      "location": "/"
+    },
+    {
+      "name": "file1.js",
+      "type": "js",
+      "location": "/aichat"
+    },
+    {
+      "name": "file2.js",
+      "type": "js",
+      "location": "/aichat"
+    },
+    {
+      "name": "file3.js",
+      "type": "js",
+      "location": "/aichat"
+    },
+    {
+      "name": "file4.js",
+      "type": "js",
+      "location": "/aichat"
+    },
+    {
+      "name": "file5.js",
+      "type": "js",
+      "location": "/aichat"
+    },
+    {
+      "name": "file6.js",
+      "type": "js",
+      "location": "/aichat"
+    },
+    {
+      "name": "file7.js",
+      "type": "js",
+      "location": "/aichat"
+    },
+    {
+      "name": "file8.js",
+      "type": "js",
+      "location": "/aichat"
+    },
+    {
+      "name": "file9.js",
+      "type": "js",
+      "location": "/aichat"
+    },
+    {
+      "name": "file10.js",
+      "type": "js",
+      "location": "/aichat"
+    },
+    {
+      "name": "file11.js",
+      "type": "js",
+      "location": "/aichat"
+    },
+    {
+      "name": "file12.js",
+      "type": "js",
+      "location": "/aichat"
+    },
+    {
+      "name": "file13.js",
+      "type": "js",
+      "location": "/aichat"
+    },
+    {
+      "name": "file14.js",
+      "type": "js",
+      "location": "/aichat"
+    },
+    {
+      "name": "file15.js",
+      "type": "js",
+      "location": "/aichat"
+    },
+    {
+      "name": "bin",
+      "type": "dir",
+      "location": "/"
+    },
+    {
+      "name": "file1.hex",
+      "type": "hex",
+      "location": "/bin"
+    },
+    {
+      "name": "file2.hex",
+      "type": "hex",
+      "location": "/bin"
+    },
+    {
+      "name": "file3.hex",
+      "type": "hex",
+      "location": "/bin"
+    },
+    {
+      "name": "file4.hex",
+      "type": "hex",
+      "location": "/bin"
+    },
+    {
+      "name": "file5.hex",
+      "type": "hex",
+      "location": "/bin"
+    },
+    {
+      "name": "file6.hex",
+      "type": "hex",
+      "location": "/bin"
+    },
+    {
+      "name": "file7.hex",
+      "type": "hex",
+      "location": "/bin"
+    },
+    {
+      "name": "file8.hex",
+      "type": "hex",
+      "location": "/bin"
+    },
+    {
+      "name": "file9.hex",
+      "type": "hex",
+      "location": "/bin"
+    },
+    {
+      "name": "file10.hex",
+      "type": "hex",
+      "location": "/bin"
+    },
+    {
+      "name": "calculator",
+      "type": "dir",
+      "location": "/"
+    },
+    {
+      "name": "file1.js",
+      "type": "js",
+      "location": "/calculator"
+    },
+    {
+      "name": "file2.js",
+      "type": "js",
+      "location": "/calculator"
+    },
+    {
+      "name": "file3.js",
+      "type": "js",
+      "location": "/calculator"
+    },
+    {
+      "name": "file4.js",
+      "type": "js",
+      "location": "/calculator"
+    },
+    {
+      "name": "file5.js",
+      "type": "js",
+      "location": "/calculator"
+    },
+    {
+      "name": "file6.js",
+      "type": "js",
+      "location": "/calculator"
+    },
+    {
+      "name": "file7.js",
+      "type": "js",
+      "location": "/calculator"
+    },
+    {
+      "name": "file8.js",
+      "type": "js",
+      "location": "/calculator"
+    },
+    {
+      "name": "localhost",
+      "type": "dir",
+      "location": "/"
+    },
+    {
+      "name": "index.html",
+      "type": "html",
+      "location": "/localhost"
+    },
+    {
+      "name": "games.html",
+      "type": "html",
+      "location": "/localhost"
+    },
+    {
+      "name": "utilities.html",
+      "type": "html",
+      "location": "/localhost"
+    },
+    {
+      "name": "time.html",
+      "type": "html",
+      "location": "/localhost"
+    },
+    {
+      "name": "sys",
+      "type": "dir",
+      "location": "/"
+    },
+    {
+      "name": "file1.c",
+      "type": "c",
+      "location": "/sys"
+    },
+    {
+      "name": "file2.cpp",
+      "type": "cpp",
+      "location": "/sys"
+    },
+    {
+      "name": "file3.cs",
+      "type": "cs",
+      "location": "/sys"
+    },
+    {
+      "name": "icons",
+      "type": "dir",
+      "location": "/"
+    },
+    {
+      "name": "icon1.svg",
+      "type": "svg",
+      "location": "/icons"
+    },
+    {
+      "name": "icon2.svg",
+      "type": "svg",
+      "location": "/icons"
+    },
+    {
+      "name": "icon3.svg",
+      "type": "svg",
+      "location": "/icons"
+    },
+    {
+      "name": "icon4.svg",
+      "type": "svg",
+      "location": "/icons"
+    },
+    {
+      "name": "icon5.svg",
+      "type": "svg",
+      "location": "/icons"
+    },
+    {
+      "name": "icon6.svg",
+      "type": "svg",
+      "location": "/icons"
+    },
+    {
+      "name": "icon7.svg",
+      "type": "svg",
+      "location": "/icons"
+    },
+    {
+      "name": "icon8.svg",
+      "type": "svg",
+      "location": "/icons"
+    },
+    {
+      "name": "icon9.svg",
+      "type": "svg",
+      "location": "/icons"
+    },
+    {
+      "name": "icon10.svg",
+      "type": "svg",
+      "location": "/icons"
+    },
+    {
+      "name": "shell.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "taskbar.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "desktop.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "encryption.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "decryption.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "compiler",
+      "type": "dir",
+      "location": "/"
+    },
+    {
+      "name": "c_compiler.c",
+      "type": "c",
+      "location": "/compiler"
+    },
+    {
+      "name": "cpp_compiler.cpp",
+      "type": "cpp",
+      "location": "/compiler"
+    },
+    {
+      "name": "cs_compiler.cs",
+      "type": "cs",
+      "location": "/compiler"
+    },
+    {
+      "name": "console.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "javascript_console.js",
+      "type": "js",
+      "location": "/"
+    },
+    {
+      "name": "CRLFFinder.asm",
+      "type": "asm",
+      "location": "/"
+    },
+    {
+      "name": "copyright",
+      "type": "txt",
+      "location": "/"
+    },
+    {
+      "name": "readme",
+      "type": "txt",
+      "location": "/"
+    },
+    {
+      "name": "setup.txt",
+      "type": "txt",
+      "location": "/"
+    }
+  ]
+}
+
+    },
+    {
+      "name": "bios.json",
+      "type": "json",
+      "location": "/"
+    },
+    {
+      "name": "config.json",
+      "type": "json",
+      "location": "/"
+    },
+    {
+      "name": "net.json",
+      "type": "json",
+      "location": "/"
+    },
+    {
+      "name": "filesystem",
+      "type": "dir",
+      "location": "/"
+    },
+    {
+      "name": "0.asm",
+      "type": "asm",
+      "location": "/filesystem"
+    },
+    {
+      "name": "0.js",
+      "type": "js",
+      "location": "/filesystem"
+    },
+    {
+      "name": "1.asm",
+      "type": "asm",
+      "location": "/filesystem"
+    },
+    {
+      "name": "1.js",
+      "type": "js",
+      "location": "/filesystem"
+   
